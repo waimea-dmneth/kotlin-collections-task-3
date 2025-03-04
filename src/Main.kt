@@ -255,7 +255,6 @@ fun showMonkeyCages(cageList: List<String>) {
     }
     print("|\n")
     println("+" + ("${"-".repeat(textLength-1)}+".padEnd(textLength, ' ')).repeat(cageList.size))
-    // REPLACE THIS WITH YOUR CODE!
 }
 
 
